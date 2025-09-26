@@ -2,3 +2,4 @@
 1. `training.py` - программа загрузки, обучения и сохранения модели
 2. `usage.py` - программа применения полученной модели. Формат использования "path/to/usage.py path/to/input.file path/to/output.file path/to/model.file".
 3. `predictions.csv` - результат применения с помощью `usage.py` модели, созданной `training.py`. Соответствие оригинальным классам датасета составляет 94%.
+4. `README.md`
